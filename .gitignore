@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# PyInstaller build artifacts
+build/
+dist/
+
+# Binaries / archives
+*.exe
+*.zip
